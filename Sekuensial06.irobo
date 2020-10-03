@@ -1,0 +1,8 @@
+paintWhite east (5) stopPainting 
+left forward (1) paintWhite left 
+forward (5) stopPainting right forward 
+(1) paintWhite east (5) stopPainting 
+north (1) paintWhite west (5) 
+stopPainting north (1) paintWhite 
+east (5) stopPainting north (1) 
+paintWhite west (5)
