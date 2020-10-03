@@ -1,0 +1,7 @@
+forward (2) 
+forward (1) 
+east (3) 
+south (4) 
+pickUp west (3) 
+right 
+putDown
