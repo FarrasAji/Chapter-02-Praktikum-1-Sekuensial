@@ -1,0 +1,10 @@
+pickUp left left putDown east (1) left pickUp left left 
+putDown east (1) left pickUp right right putDown east (1) 
+left pickUp left left putDown east (1) left pickUp right right 
+putDown east (1) left pickUp left left putDown east (1) left 
+pickUp right right putDown east (1) left pickUp left left 
+putDown east (1) left pickUp right right putDown east (1) 
+left pickUp left left putDown east (1) left 
+pickUp right right putDown 
+east (1) left pickUp left left 
+putDown
