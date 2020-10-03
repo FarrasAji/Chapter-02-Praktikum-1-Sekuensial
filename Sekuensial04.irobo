@@ -1,0 +1,10 @@
+East (9) south (2) east (3)
+left forward (2) right forward (1)
+north (2) left forward (2)
+north (3) left forward (1)
+north (2) east (3) north (1) pickUp
+backward (1) left forward (3)
+south (2) left forward (1)
+right forward (3) left forward (2)
+south (2) west (1) south (2)
+right forward (3) north (2) left putDown
