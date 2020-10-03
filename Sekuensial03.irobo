@@ -1,0 +1,10 @@
+backward (2) 
+right forward (3) 
+pickUp north (2) 
+east (7) 
+left forward (1) 
+east (2) 
+north (6) 
+left forward (8) 
+north (1) 
+putDown
