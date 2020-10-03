@@ -1,0 +1,7 @@
+east (2) pickUp backward (4) left putDown right forward 
+(5) pickUp backward (4) left putDown east (5) pickUp 
+backward (6) right putDown left forward (7) pickUp 
+backward (6) right putDown 
+east (7) pickUp backward (6) left putDown east (7) 
+pickUp backward (7) right putDown left forward (8) pickUp 
+backward (7) left left putDown east (10)
